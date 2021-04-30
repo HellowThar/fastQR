@@ -1,5 +1,5 @@
 use wasm_bindgen::prelude::*;
-use qrcode_generator::{ QrCodeEcc };g
+use qrcode_generator::{ QrCodeEcc };
 
 #[wasm_bindgen(js_name = genQrCode)]
 pub fn gen_qr_code(url: String) -> String { 
