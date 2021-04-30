@@ -1,6 +1,9 @@
 # fastQR
 fastQR - Wasm based QR encoding
-
+Svelte Front End
+Rust -> Wasm Back End - in the Front End!
+Serverless by design for snappy QR code encoding -
+no more waiting 45 seconds for a server to finish!
 
 # Get this project running
 ## Requirements:
@@ -8,6 +11,7 @@ fastQR - Wasm based QR encoding
 2. [Rust](https://www.rust-lang.org/tools/install)
 ## Setup:
 1. Clone repo into new project
-2. `cd front_end && npm install`
-3. `npm run dev`
-4. Navigate to `localhost:5000`
+2. `cd front_end`
+3. `npm install`
+4. `npm run dev`
+5. Project served at `localhost:5000`
