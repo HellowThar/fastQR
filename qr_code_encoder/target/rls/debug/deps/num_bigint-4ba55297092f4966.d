@@ -1,0 +1,10 @@
+c:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\rls\debug\deps\num_bigint-4ba55297092f4966.rmeta: C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\lib.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\macros.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\bigint.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\biguint.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\algorithms.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\monty.rs
+
+c:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\rls\debug\deps\num_bigint-4ba55297092f4966.d: C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\lib.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\macros.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\bigint.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\biguint.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\algorithms.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\monty.rs
+
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\lib.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\macros.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\bigint.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\biguint.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\algorithms.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.2.6\src\monty.rs:

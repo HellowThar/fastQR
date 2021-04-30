@@ -1,0 +1,25 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-Foc:\\Users\\Jamison\\Desktop\\Web-Dev\\svelte_wasm_qr_code_encoder\\qr_code_encoder\\target\\rls\\debug\\build\\nsvg-7272c1fc70d20323\\out\\lib/nanosvg.o" "-c" "lib/nanosvg.c"
+nanosvg.c
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\lib.exe" "-out:c:\\Users\\Jamison\\Desktop\\Web-Dev\\svelte_wasm_qr_code_encoder\\qr_code_encoder\\target\\rls\\debug\\build\\nsvg-7272c1fc70d20323\\out\\libnanosvg.a" "-nologo" "c:\\Users\\Jamison\\Desktop\\Web-Dev\\svelte_wasm_qr_code_encoder\\qr_code_encoder\\target\\rls\\debug\\build\\nsvg-7272c1fc70d20323\\out\\lib/nanosvg.o"
+exit code: 0
+cargo:rustc-link-lib=static=nanosvg
+cargo:rustc-link-search=native=c:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\rls\debug\build\nsvg-7272c1fc70d20323\out
