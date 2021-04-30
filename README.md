@@ -1,8 +1,12 @@
 # fastQR
 fastQR - Wasm based QR encoding
+
 Svelte Front End
+
 Rust -> Wasm Back End - in the Front End!
+
 Serverless by design for snappy QR code encoding -
+
 no more waiting 45 seconds for a server to finish!
 
 # Get this project running
