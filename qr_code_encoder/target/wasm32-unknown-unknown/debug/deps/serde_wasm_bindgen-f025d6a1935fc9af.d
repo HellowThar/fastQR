@@ -1,0 +1,10 @@
+C:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\wasm32-unknown-unknown\debug\deps\serde_wasm_bindgen-f025d6a1935fc9af.rmeta: C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\lib.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\de.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\error.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\ser.rs
+
+C:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\wasm32-unknown-unknown\debug\deps\libserde_wasm_bindgen-f025d6a1935fc9af.rlib: C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\lib.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\de.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\error.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\ser.rs
+
+C:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\wasm32-unknown-unknown\debug\deps\serde_wasm_bindgen-f025d6a1935fc9af.d: C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\lib.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\de.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\error.rs C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\ser.rs
+
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\lib.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\de.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\error.rs:
+C:\Users\Jamison\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.1.3\src\ser.rs:

@@ -1,0 +1,1 @@
+C:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\target\wasm32-unknown-unknown\release\libqr_code_encoder.rlib: C:\Users\Jamison\Desktop\Web-Dev\svelte_wasm_qr_code_encoder\qr_code_encoder\src\lib.rs build.rs
