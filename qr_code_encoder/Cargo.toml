@@ -26,5 +26,5 @@ features = [
     'console'
 ]
 
-[patch.crates-io]
-qrcode-generator = {path = "../qrcode_generator"}
+# [patch.crates-io]
+# qrcode-generator = {path = "../qrcode_generator"}

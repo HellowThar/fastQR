@@ -6,7 +6,22 @@
 	let svg;
 
 	async function buttonHandler() {
-		svg = await genQrCode(url);
+		svg = await genQrCode('url');
+	}
+
+	async function download() {
+		let canvas = document.createElement('canvas');
+		let img = document.getElementsByTagName('svg');
+		img = img[0];
+		console.log(img)
+		let xml = new XMLSerializer().serializeToString(img);
+		let svg64 = btoa(xml);
+		let image64 = `data:image/svg+xml;base64,${svg64}`;
+		canvas.getContext('2d').drawImage(svg, 0, 0);
+		let dt = canvas.toDataURL('image/png');
+		dt = dt.replace(/^data:image\/[^;]*/, 'data:application/octet-stream');
+		dt = dt.replace(/^data:application\/octet-stream/, 'data:application/octet-stream;headers=Content-Disposition%3A%20attachment%3B%20filname=Canvas.png')
+		this.href = dt
 	}
 
 </script>
@@ -18,7 +33,8 @@
 		{@html svg}
 	{/if}
 	<input type="text" bind:value="{url}">
-	<button on:click={buttonHandler}></button>
+	<button on:click={buttonHandler}>Generate QR Code</button>
+	<button on:click={download}>Download</button>
 </main>
 
 <style>
